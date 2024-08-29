@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ecolog321
-- 👀 I’m interested in JS, WoW, beer and memes
-- 🌱 I’m currently learning full-stack programming
-- 💞️ I’m looking to collaborate on learning
+- 👀 I’m interested in education, pets and travel
 - 📫 How to reach me with my telegram @ecolog321
 
 <!---
