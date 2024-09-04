@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @ecolog321
-- 👀 I’m interested in education, pets and travel
+- 👋 Hi, I’m Dmitriy Arkhipov
+- I live in Irkutsk, lake Baikal
+- 👀 I’m interested in programming, marketing, games, pets and travel
 - 📫 How to reach me with my telegram @ecolog321
-
-<!---
-ecolog321/ecolog321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Welcome to my GitHub!
