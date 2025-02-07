@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dmitriy Arkhipov
-- I live in Irkutsk, lake Baikal
-- 👀 I’m interested in programming, marketing, games, pets and travel
+- I live in Irkutsk, near lake Baikal
+- 👀 I’m interested in web-develop (JS, React, TS), marketing, games, pets and travel
 - 📫 How to reach me with my telegram @ecolog321
 - Welcome to my GitHub!
